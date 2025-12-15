@@ -1,0 +1,13 @@
+{
+  "name": "eslint-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repro.js",
+  "private": true,
+  "scripts": {
+  },
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "@stylistic/eslint-plugin-js": "^4.4.1"
+  }
+}
